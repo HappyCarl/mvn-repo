@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.appspot.drive_log</groupId>
+  <artifactId>geotown</artifactId>
+  <versioning>
+    <versions>
+      <version>v1-1.18.0-rc-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140611191142</lastUpdated>
+  </versioning>
+</metadata>
