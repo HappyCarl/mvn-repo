@@ -5,7 +5,8 @@
   <versioning>
     <versions>
       <version>v1-1.18.0-rc-SNAPSHOT</version>
+      <version>0.0.34-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140616202753</lastUpdated>
+    <lastUpdated>20140617113017</lastUpdated>
   </versioning>
 </metadata>

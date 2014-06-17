@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.appspot.drive_log</groupId>
+  <artifactId>geotown</artifactId>
+  <version>0.0.34-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140617.113017</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140617113017</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.34-20140617.113017-1</value>
+        <updated>20140617113017</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.34-20140617.113017-1</value>
+        <updated>20140617113017</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
